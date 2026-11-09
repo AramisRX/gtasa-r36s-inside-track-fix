@@ -59,7 +59,13 @@ La carrera solo arranca si la apuesta es mayor que 0 $.
 
 ### Estado
 
-Probado en una R36S con este port. No está probado en otras consolas ni en otras versiones del port. Si lo pruebas en otra, abre un *issue* y cuéntalo.
+Probado en:
+
+| Consola | Placa | Firmware |
+|---|---|---|
+| R36S | HL-R36H-V21 (2024-11-18) | dArkOSen_R36_10152026 |
+
+No está probado en otras consolas ni en otras versiones del port. Si lo pruebas en otra, abre un *issue* y cuéntalo.
 
 ---
 
@@ -118,7 +124,13 @@ The race only starts if your bet is above $0.
 
 ### Status
 
-Tested on an R36S with this port. Not tested on other devices or other builds of the port. If you try it elsewhere, please open an issue.
+Tested on:
+
+| Device | Mainboard | Firmware |
+|---|---|---|
+| R36S | HL-R36H-V21 (2024-11-18) | dArkOSen_R36_10152026 |
+
+Not tested on other devices or other builds of the port. If you try it elsewhere, please open an issue.
 
 ---
 
